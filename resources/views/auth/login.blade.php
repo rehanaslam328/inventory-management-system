@@ -68,7 +68,6 @@
                     </div>
                 </div>
             </div>
-            <!-- END: Social Login Form-->
         </div>
     </div>
 </div>
