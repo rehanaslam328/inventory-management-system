@@ -19831,9 +19831,7 @@ body {
   display: flex;
   align-items: center;
 }
-.footer-admin.footer-dark {
-  /* color: rgba(255, 255, 255, 0.6); */
-}
+
 .footer-admin.footer-light {
   color: #a7aeb8;
 }
