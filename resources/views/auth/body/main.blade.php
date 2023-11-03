@@ -8,7 +8,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/favicon.png') }}" />
-        <title>Inventory Management System</title>
+        <title>InventoPro</title>
 
         <!-- Style CSS -->
         <link href="{{ asset('assets/css/styles.css') }}" rel="stylesheet" />
@@ -32,7 +32,7 @@
                 <footer class="footer-admin mt-auto">
                     <div class="container-xl px-4">
                         <div class="row">
-                            <div class="col-md-6 small">Copyright © Inventory <script>document.write(new Date().getFullYear())</script></div>
+                            <div class="col-md-6 small">Copyright © InventoPro <script>document.write(new Date().getFullYear())</script></div>
                             <div class="col-md-6 text-md-end small">
                                 <a href="#">Privacy Policy</a>
                                 ·
