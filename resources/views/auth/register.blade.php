@@ -8,19 +8,12 @@
             <div class="card my-5">
                 <div class="card-body p-5 text-center">
                     <div class="h3 fw-light mb-3">Create an Account</div>
-                    {{-- <div class="small text-muted mb-2">Sign in using...</div>
-                    <!-- BEGIN: Social Registration Links -->
-                    <a class="btn btn-icon btn-facebook mx-1" href="#"><i class="fab fa-facebook-f fa-fw fa-sm"></i></a>
-                    <a class="btn btn-icon btn-github mx-1" href="#"><i class="fab fa-github fa-fw fa-sm"></i></a>
-                    <a class="btn btn-icon btn-google mx-1" href="#"><i class="fab fa-google fa-fw fa-sm"></i></a>
-                    <a class="btn btn-icon btn-twitter mx-1" href="#"><i class="fab fa-twitter fa-fw fa-sm text-white"></i></a> --}}
-                    <!-- END: Social Registration Links -->
                 </div>
 
                 <hr class="my-0" />
 
                 <div class="card-body p-5">
-                    <div class="text-center small text-muted mb-4">...or enter your information below.</div>
+                    <div class="text-center small text-muted mb-4">Enter your information below.</div>
                     <!-- BEGIN: Login Form -->
                     <form action="{{ route('register') }}" method="POST">
                         @csrf
